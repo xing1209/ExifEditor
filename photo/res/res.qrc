@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="images">
+    <file>img1.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>视图菜单_空心@1x.png</file>
+    <file>semiDesign-semi-icons-globe 1@1x.png</file>
+    <file>save@1x.png</file>
+    <file>share@1x.png</file>
+    <file>antOutline-calendar Copy YfTr3VI@1x.png</file>
+    <file>semiDesign-semi-icons-calendar_clock 1@1x.png</file>
+    <file>semiDesign-semi-icons-calendar_clock@1x.png</file>
+    <file>semiDesign-semi-icons-comment 1@1x.png</file>
+    <file>semiDesign-semi-icons-file 1@1x.png</file>
+    <file>semiDesign-semi-icons-folder_open 1@1x.png</file>
+    <file>semiDesign-semi-icons-map_pin 1 @1x.png</file>
+    <file>semiDesign-semi-icons-map_pin 1@1x.png</file>
+    <file>收藏@1x.png</file>
+    <file>收藏点亮@1x.png</file>
+    <file>iconPark-full-screen-two@1x.png</file>
+    <file>iconPark-off-screen-two 1@1x.png</file>
+    <file>关闭@1x.png</file>
+    <file>最小化@1x.png</file>
+    <file>icon.ico</file>
+    <file>打开文件@1x.png</file>
+    <file>帮助菜单@1x.png</file>
+    <file>视图菜单@1x.png</file>
+  </qresource>
+</RCC>
