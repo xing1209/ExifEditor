@@ -9,7 +9,7 @@ ExifEditor 是一款简单实用的 EXIF 信息查看与编辑工具，支持查
 - PRD：
   - 金山文档 | WPS云文档】 ExifEditor_PRD https://kdocs.cn/l/coCT0X4tHBNe
 
-- 原型设计
+- 原型设计:
   - ExifEditor-分享 https://modao.cc/proto/8tKIZTi5so0zebwJoG2KYm/sharing?view_mode=read_only&screen=rbpUW5pz31a4pyqnM 
 
 ## 使用说明
